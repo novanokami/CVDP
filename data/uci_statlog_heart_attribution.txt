@@ -1,0 +1,6 @@
+Dataset: Statlog (Heart)
+Source: UCI Machine Learning Repository, https://archive.ics.uci.edu/dataset/145/statlog%2Bheart
+Citation: Statlog (Heart) [Dataset]. UCI Machine Learning Repository. DOI: https://doi.org/10.24432/C57303
+License: Creative Commons Attribution 4.0 International (CC BY 4.0). Credit UCI when redistributing.
+Rows: 270. The cardio target was mapped from UCI class 1 (absence) to 0 and class 2 (presence) to 1.
+This is a classic small heart-disease classification dataset, not a longitudinal dataset of future events.
